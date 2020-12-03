@@ -1,0 +1,66 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "extensions_IaaSAntimalware_Paths": {
+            "value": null
+        },
+        "extensions_IaaSAntimalware_Extensions": {
+            "value": null
+        },
+        "extensions_IaaSAntimalware_Processes": {
+            "value": null
+        },
+        "vaults_Almacen_name": {
+            "value": null
+        },
+        "sites_juice_shop_east_us_name": {
+            "value": null
+        },
+        "sites_juice_shop_central_us_name": {
+            "value": null
+        },
+        "vaults_vault428_name": {
+            "value": null
+        },
+        "storageAccounts_nubefcfm_name": {
+            "value": null
+        },
+        "frontdoors_juice_shop_app_name": {
+            "value": null
+        },
+        "virtualMachines_Developer_PC_name": {
+            "value": null
+        },
+        "serverfarms_ASP_ProyectoSCN_a39a_name": {
+            "value": null
+        },
+        "serverfarms_ASP_ProyectoSCN_a65f_name": {
+            "value": null
+        },
+        "networkInterfaces_developer_pc525_name": {
+            "value": null
+        },
+        "virtualNetworks_Proyecto_SCN_vnet_name": {
+            "value": null
+        },
+        "bastionHosts_Proyecto_SCN_vnet_bastion_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Developer_PC_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_Proyecto_SCN_vnet_ip_name": {
+            "value": null
+        },
+        "workspaces_proyectologanalytics_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_juiceShopWaf_name": {
+            "value": null
+        },
+        "solutions_SecurityInsights_proyectologanalytics__name": {
+            "value": null
+        }
+    }
+}
